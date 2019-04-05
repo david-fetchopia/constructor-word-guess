@@ -18,6 +18,6 @@ function Letter(letter) {
 }
 module.exports = Letter;
 
-let test = new Letter(' ');
-test.checkChar(' ');
-console.log(test.guessed);
+// let test = new Letter(' ');
+// test.checkChar(' ');
+// console.log(test.guessed);
